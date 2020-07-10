@@ -6,6 +6,9 @@
   "bin": {
     "e33or_assasin": "./bin/card.js"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npm-run-all --parallel autobuild watch:app",
