@@ -9,7 +9,7 @@ Creating your own Bussiness Card using a npm module, looks way more cooler than 
 
 
 ### Built With
-Some major frameworks that were used in creating of this project:-
+Some major frameworks that were used in this project:-
 * [npm](https://www.npmjs.com/)
 * [Chalk](https://www.npmjs.com/package/chalk)
 * [Boxen](https://www.npmjs.com/package/boxen)
